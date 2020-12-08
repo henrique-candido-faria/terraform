@@ -1,6 +1,6 @@
 #terraform
-**/.terraform/*
-**/.tf/*
+.terraform
+.tf
 
 #aws
-**/.sh/*
+.sh
