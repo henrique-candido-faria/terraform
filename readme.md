@@ -1,3 +1,4 @@
 :books: Aprendendo sobre terraform
 
-Documentação https://www.terraform.io/intro/index.html
+Antes...
+        :memo: Criação de um acesso a Amazon Web Services
