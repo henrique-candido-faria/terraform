@@ -3,4 +3,4 @@
 .tf
 
 #aws
-.sh
+aws/s3/create-bucket.sh
