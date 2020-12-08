@@ -1,6 +1,9 @@
 #terraform
-.terraform
-.tf
+*.terraform
+ec2.tf
+key.tf
+main.tf
 
 #aws
 aws/s3/create-bucket.sh
+aws/s3/list-buckets.sh
