@@ -1,5 +1,4 @@
 #terraform
-*.terraform
 ec2.tf
 key.tf
 main.tf
